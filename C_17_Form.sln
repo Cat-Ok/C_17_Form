@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_17_Form", "C_17_Form\C_17_Form.csproj", "{F867B5B1-8BB9-41E1-8750-0F9BCDB77783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F867B5B1-8BB9-41E1-8750-0F9BCDB77783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F867B5B1-8BB9-41E1-8750-0F9BCDB77783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F867B5B1-8BB9-41E1-8750-0F9BCDB77783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F867B5B1-8BB9-41E1-8750-0F9BCDB77783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
